@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nicolas Gonzalez</h1>
-<h3 align="center">A passionate frontend developer and Systems Engineer from Colombia</h3>
+<h3 align="center">A passionate frontend developer and In-training Systems Engineer with +1 year of experience and I'm from Colombia</h3>
 
-- 🌱 I’m currently learning **Angular and NextJs**
+- ⚡ My main strenghts are **Angular and Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NicoGonzz](https://github.com/NicoGonzz)
-
-- 📫 How to reach me **juannicolas28@live.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/juan-nicolas-gonzales-marin-0530a527](https://www.linkedin.com/in/juan-nicolas-gonzales-marin-0530a527)
+- 📫 How to reach me **juannicolas28@live.com or +57 3006053457**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-nicolas-gonzales-marin-0530a527" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-nicolas-gonzales-marin-0530a527" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juan-n-gonzales-0530a527/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-n-gonzales-0530a527/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

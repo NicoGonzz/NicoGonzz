@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nicolas Gonzalez</h1>
-<h3 align="center">A passionate frontend developer and In-training Systems Engineer with +1 year of experience and I'm from Colombia</h3>
+<h3 align="center">A passionate frontend developer and In-training Systems Engineer with +2 year of experience and I'm from Colombia</h3>
 
-- ⚡ My main strenghts are **Angular and Javascript**
+- ⚡ My main strenghts are **Angular-Wordpress-Javascript**
 
-- 📫 How to reach me **juannicolas28@live.com or +57 3006053457**
+- 📫 How to reach me **juannicolas28@live.com or juannicolas2899@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

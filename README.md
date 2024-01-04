@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Gonzalez</h1>
-<h3 align="center">A passionate frontend developer and In-training Systems Engineer with +2 year of experience and I'm from Colombia</h3>
+<h3 align="center">A passionate frontend developer and In-training Systems Engineer with +2.5 year of experience and I'm from Colombia</h3>
 
 - ⚡ My main strenghts are **Angular-Wordpress-Javascript**
 

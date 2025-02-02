@@ -6,7 +6,7 @@
 - 📫 How to reach me **juannicolas28@live.com or juannicolas2899@gmail.com**
 
 **Languages Usage**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoGonzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

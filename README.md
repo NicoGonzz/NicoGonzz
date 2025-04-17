@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Gonzalez</h1>
 <h3 align="center">A passionate full stack developer focused on Front-end and Systems Engineer with +2.5 year of experience and I'm from Colombia</h3>
 
-- ⚡ My main strenghts are **Angular-Python-NodeJs-AWS-NestJs**
+- ⚡ My main strenghts are **Angular-Python-NodeJs-AWS-NestJs-ReactJs-C#**
 
 - 📫 How to reach me **juannicolas28@live.com or juannicolas2899@gmail.com**
 
